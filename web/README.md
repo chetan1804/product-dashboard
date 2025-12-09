@@ -2,7 +2,7 @@
 
 Quick start (development):
 
-PowerShell (from `d:/Jordan/jordan/web`):
+PowerShell (from `web`):
 
 ````powershell
 npm install
@@ -13,7 +13,7 @@ npm run dev
 
 **Prerequisites:** Node.js 16+
 
-PowerShell (from `d:/Jordan/jordan/web`):
+PowerShell (from `web`):
 
 ```powershell
 npm install
